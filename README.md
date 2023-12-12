@@ -5,9 +5,7 @@
 
 Создаем конфигурационный файл для  сервера /etc/nginx/conf.d/.
 
-<img width="437" alt="image" src="https://github.com/Krutov12/lab_SPO_web/assets/77206997/bbfd2f3b-0c1b-49ba-9f34-756b620de56a">
-
-
+<img width="437" alt="image" src="https://github.com/Krutov12/lab_SPO_web/assets/77206997/bbfd2f3b-0c1b-49ba-9f34-756b620de56a"> "\n"
 
 <img width="280" alt="image" src="https://github.com/Krutov12/lab_SPO_web/assets/77206997/49793e44-dcb7-4e75-b4ee-d934227a7931">
 
