@@ -3,6 +3,7 @@
 
 <img width="497" alt="image" src="https://github.com/Krutov12/lab_SPO_web/assets/77206997/1f9cf210-2a7a-4a15-89d3-8234e931aa41">
 
+Создаем конфигурационный файл для  сервера /etc/nginx/conf.d/.
 
 <img width="437" alt="image" src="https://github.com/Krutov12/lab_SPO_web/assets/77206997/bbfd2f3b-0c1b-49ba-9f34-756b620de56a">
 
